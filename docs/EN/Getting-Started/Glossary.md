@@ -63,7 +63,7 @@
 </tr>
 <tr>
 <td><strong>BG source</strong></td>
- <td>The blod glucose source is the source where your blood glucose values come from. They come from a CGM or FGM system which you wear through some kind of integration software like BYODA, xDrip+ etc.</td>
+ <td>The blood glucose source is the source where your blood glucose values come from. They come from a CGM or FGM system which you wear through some kind of integration software like BYODA, xDrip+ etc.</td>
  <td>CGM / FGM</td>
  <td><a href="../Configuration/Config-Builder.html#bg-source">Wiki - BG source</a></td>
 </tr>
